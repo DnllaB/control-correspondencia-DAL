@@ -6,8 +6,8 @@ Aplicación diseñada para **gestionar y controlar de manera eficiente** las nov
 ## Tecnologías utilizadas
 Este proyecto utiliza las siguientes tecnologías:
 - **Lenguaje**: Java version 19 en adelante
-- **Framework**: Spring Boot version 3.4.5
-- **Base de datos**: MariaDB version 5.5
+- **Framework**: Spring Boot version 3.4.5 en adelante
+- **Base de datos**: MariaDB version 10.6 en adelante
 
 ## Características principales
 - Registro y seguimiento de novedades recibidas.
